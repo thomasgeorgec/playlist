@@ -14,6 +14,6 @@ BeautifulSoup library : install by running command
 
 <B>Usage :
 
-playlist.py <url>
+playlist.py url
 
 url should be in format https://www.youtube.com/playlist?list=PLMC9KNkIncKtPzgY-5rmhvj7fax8fdxoj
